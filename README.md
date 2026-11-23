@@ -49,3 +49,7 @@ Paste [PROMPT.md](PROMPT.md) into Claude Code in the folder with the log. It set
 ## License
 
 MIT
+
+---
+
+Don't have Claude Code yet? [Get Claude here](https://claude.ai/referral/IL0FPScZCw).

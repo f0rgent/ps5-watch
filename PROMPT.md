@@ -16,3 +16,7 @@ I want to see which servers my game console contacts while I play.
 
 Report only what is in the log. No conclusions about what the data is used for.
 ```
+
+---
+
+Don't have Claude Code yet? [Get Claude here](https://claude.ai/referral/IL0FPScZCw).
